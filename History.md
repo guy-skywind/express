@@ -1,4 +1,4 @@
-4.14.0 / 2016-06-16
+4.14.1 / 2016-06-16
 ===================
 
   * Add `acceptRanges` option to `res.sendFile`/`res.sendfile`
